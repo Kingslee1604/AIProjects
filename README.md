@@ -1,2 +1,2 @@
 # AIProjects
- AI_Related_Prohects
+ AI_Related_Projects
